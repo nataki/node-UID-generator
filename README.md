@@ -7,9 +7,10 @@ Simple generation of RFC4122 UUIDS.
 Generate UUIDs in the format 'xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx'
 
 ## Installation
+
 ```bash
 npm install node-uuid-generator --save
-```bash
+```
 
 ## Usage
 
@@ -19,7 +20,7 @@ var generator = require('node-uuid-generator');
 
 generator.generate();
 
-```javascript
+```
 
 ## API Reference
 
@@ -30,7 +31,7 @@ Depending on the size of the project, if it is small and simple enough the refer
 ```bash
 npm install
 npm test
-```bash
+```
 
 ## License
 
