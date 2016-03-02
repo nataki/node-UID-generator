@@ -1,1 +1,1 @@
-# node-UID-generator
+# node-UUID-generator
