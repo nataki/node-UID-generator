@@ -1,7 +1,7 @@
 {
-  "name": "@nataki/node-uuid-generator",
+  "name": "node-uuid-generator",
   "version": "1.0.0",
-  "description": "Simple generator of UUID - unique identifiers",
+  "description": "Simple generator of UUID",
   "main": "lib/index.js",
   "directories": {
     "example": "example",
