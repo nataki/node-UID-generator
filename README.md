@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/nataki/node-UUID-generator.svg?branch=master)](https://travis-ci.org/nataki/node-UUID-generator)
+
 # UUID generator
 
 Simple generation of RFC4122 UUIDS.
